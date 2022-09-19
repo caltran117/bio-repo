@@ -1,19 +1,33 @@
+
 .lesson {
-  background-color: lemonchiffon;
+  background-color: rgb(36, 122, 235);
 }
 
 .title {
-  color: darkblue;
+  color: rgb(0, 0, 0);
+}
+
+#title-name{
+    color: rgb(255, 255, 255);
+}
+
+#title-contact{
+  color: white;
 }
 
 #email {
-  background-color: goldenrod;
+  background-color: #c2c2c2;
 }
 
 #github {
-  background-color: lightsteelblue;
+  background-color: rgb(255, 255, 255)
 }
 
 #portfolio {
-  background-color: darkorange;
+  background-color:#c2c2c2;
 }
+
+img {
+  border-radius: 10%;
+max-width: 25%;
+height: auto;}
